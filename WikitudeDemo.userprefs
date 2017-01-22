@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4FFD1706-19DA-4409-8655-DC0F837FB166}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="WikitudeDemo/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="WikitudeDemo/Main.cs" Line="1" Column="1" />
+      <File FileName="WikitudeDemo/ViewController.cs" Line="32" Column="59" />
+      <File FileName="WikitudeDemo/Info.plist" />
+      <File FileName="WikitudeDemo/Resources/ARchitectWorld/index.html" Line="8" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WikitudeDemo" expanded="True">
+            <Node name="WikitudeDemo" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="ARchitectWorld" expanded="True">
+                  <Node name="index.html" selected="True" />
+                </Node>
+              </Node>
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WikitudeDemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.aa8ba89f28dd4b8680cfa33780f2cfa65ee8c69b" />
+</Properties>
